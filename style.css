@@ -1,0 +1,43 @@
+body {
+	background-color: white;
+
+}
+
+.container {
+	
+	width:100%;
+
+	
+}
+
+.topTitle {
+	width:100%;
+	text-align: center;
+	color: white;
+	background-color: black;
+	font-family: Arial;
+}
+
+.currentMonthTitle {
+	text-align: center;
+}
+
+.currentMonthBox {
+	width: 100%;
+}
+
+.currentMonthBox ul {
+	list-style-type: none;
+	
+}
+
+.currentMonthBox li {
+	display: inline;
+	
+}
+
+.day {
+	width: 13%;
+	height: 50px;
+	display: inline-block;
+}
