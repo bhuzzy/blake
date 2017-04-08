@@ -8,9 +8,24 @@
 <body>
 	
 	<div class="container">
+
+		<div class="Logo">
+
+				<img style="width:40px; margin: auto; display: block;" src="world.gif">
+				<img style="width:40px; margin: auto; display: block;" src="calendar.png">
+
+
+		</div>
+
+		<h1 class="topTitle"> 2017 </h1>
 		
-		<h1 class="topTitle"> Calendar </h1>
-		<h2 class="currentMonthTitle"> April </h2>
+		
+
+		<div class="centerTextMarginBottom">
+			<h4 class="backward"> <- March </h4>
+			<h2 class="currentMonthTitle"> April </h2>
+			<h4 class="forward"> May -> </h4>
+		</div>
 
 		<div class="currentMonthBox">
 
@@ -127,6 +142,7 @@
 			</div>
 
 		</div>
+
 
 	</div>
 
